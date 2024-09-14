@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-#include <string>
 using namespace std;
 
 int datanilai[999], jumlah, minnilai = 100, maxnilai = 0, rata = 0, sum;
